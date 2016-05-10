@@ -1,6 +1,6 @@
 {
-    "id": "nodebb-theme-quickstart",
-    "name": "My Theme Name",
-    "description": "Enter a description here",
-    "url": "https://github.com/nodebb/nodebb-theme-quickstart"
+    "id": "nodebb-theme-netsblox",
+    "name": "NetsBlox",
+    "description": "A theme customized for use with NetsBlox",
+    "url": "https://github.com/netsblox/nodebb-theme-netsblox"
 }
