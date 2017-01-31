@@ -2,5 +2,7 @@
 
 # NetsBlox Theme for NodeBB
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/NetsBlox/nodebb-theme-netsblox.svg)](https://greenkeeper.io/)
+
 This theme provides:
 - Custom profile pages (added "public netsblox projects")
